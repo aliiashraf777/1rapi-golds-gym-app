@@ -1,7 +1,7 @@
 
 
 // const BASE_URL = 'https://exercisedb.p.rapidapi.com/exercises/targetList'
-
+ 
 export const exerciseOptions = {
     method: 'GET',
     headers: {
