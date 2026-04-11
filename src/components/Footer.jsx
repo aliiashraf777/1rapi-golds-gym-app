@@ -1,7 +1,7 @@
 import { Box, Stack, Typography } from '@mui/material'
 import React from 'react'
 import { logo1 } from '../assets/images'
-
+ 
 const Footer = () => {
   return (
     <Box
