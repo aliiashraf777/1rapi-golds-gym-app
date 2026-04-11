@@ -1,6 +1,6 @@
 import { Button, Stack, Typography } from "@mui/material";
 import { bodyPart, equipment, gym, target } from "../../assets/icons";
-
+ 
 
 const ExerciseDetail = ({ exerciseDetail }) => {
 
