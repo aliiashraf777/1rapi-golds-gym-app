@@ -1,7 +1,7 @@
 import { Box } from '@mui/material'
 import { HeroBanner, HomeExercises, SearchExercises } from '../components'
 import { useState } from 'react';
-
+ 
 const Home = () => {
 
     // shared state of application
