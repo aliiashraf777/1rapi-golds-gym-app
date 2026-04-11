@@ -1,7 +1,7 @@
 import { Stack } from '@mui/material'
 import { Link } from 'react-router-dom'
 import { logo } from '../assets/images'
-
+ 
 const Navbar = () => {
   return (
     <Stack direction='row' justifyContent='space-around' sx={{
