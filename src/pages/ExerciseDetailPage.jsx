@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { ExerciseDetail, ExerciseVideos, SimilarExercises } from '../components'
 import { useParams } from 'react-router-dom'
 import { exerciseOptions, fetchExercisesData } from '../utils/fetchExerciseData'
-
+ 
 const ExerciseDetailPage = () => {
 
     const [exerciseDetail, setExerciseDetail] = useState({})
